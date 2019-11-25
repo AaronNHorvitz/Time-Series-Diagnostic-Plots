@@ -1,4 +1,4 @@
-# Time-Series-Diagnostics
+# Time-Series-Diagnostic-Plots
 This code provides a series of diagnostic plots for time series analysis. These include ACF and PACF plots, predicted vs actual, residual plots, differenced residual plots, and many more.
 
 ## Here is the execution of the code:
